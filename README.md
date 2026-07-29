@@ -1,1 +1,5 @@
-# terms-if-use-and-privacy-policy-for-roku-app
+# Church Hub Legal Documents
+
+This repository hosts the Privacy Policy and Terms of Use for "MBC ClovkApp Beta" Roku application.
+
+Hosted using GitHub Pages.
